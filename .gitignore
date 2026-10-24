@@ -38,4 +38,4 @@ MANIFEST
 
 #PyCharm
 .idea
-
+uv.lock
